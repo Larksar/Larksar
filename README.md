@@ -1,4 +1,4 @@
-## Hi there 👋
+![Banner](https://cdn.discordapp.com/attachments/1190123988240830565/1478051642875187271/r34wheel.jpg?ex=69a6fe5c&is=69a5acdc&hm=da21c6f5c7883bd89888ecee3500bb7b243a2aad341afd2e670d8c47734d4e48&)
 
 <!--
 **Larksar/Larksar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
