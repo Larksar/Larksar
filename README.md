@@ -1,6 +1,6 @@
 <!-- Banner for profile -->
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1190123988240830565/1478053106100211875/supra_-_Edited.jpg?ex=69a6ffb9&is=69a5ae39&hm=354c22899bf17e83405e1110309ff4787d6e840a66639da5ae579b251a9f2a4a&" />
+  <img src="https://cdn.discordapp.com/attachments/1190123988240830565/1478072004992045086/github_banner_1500x400.jpg?ex=69a71153&is=69a5bfd3&hm=1ca4734192da3a3e88c9e387a573a34fb5fc159e554ce9fcde75c4bda4c48dd3&" />
 </div>
   
 <!-- Intro Header -->
@@ -20,6 +20,22 @@ Aspiring Data Engineer from London (trying out game development too)
 </ul>
 
 <!-- Skills section -->
-<h2 align="center"> <img src="https://camo.githubusercontent.com/c046573d7598d2b619310a82caccd33ca2cc898c9ef6965789559de012bf3107/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="20px"> Skills
+<h2 align="center"> <img src="https://camo.githubusercontent.com/c046573d7598d2b619310a82caccd33ca2cc898c9ef6965789559de012bf3107/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="30px"> Skills
 </h2>
+
+<h4 align="left">🤖Programming Languages, Frameworks & Tools:</h4>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GIT](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![DBT](https://img.shields.io/badge/DBT-E34F26?style=for-the-badge&logo=data%20build%20tool&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+
+<h4 align="left">❄️Data Warehousing & Databases:</h4>
+
+![SNOWFLAKE](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![SQL SERVER](https://img.shields.io/badge/SQL%20SERVER-CC2927?style=for-the-badge&logo=sql%20server&logoColor=white)
+![POSTGRESQL](https://img.shields.io/badge/POSTGRE%20SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
 
