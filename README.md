@@ -8,7 +8,7 @@
 
 <!-- About me section -->
 <h5 align="center">
-Aspiring Data Engineer from London (trying out game development too)
+Aspiring Data Engineer from London
 </h5>
 
 <h2 align="center">About Me</h2>
