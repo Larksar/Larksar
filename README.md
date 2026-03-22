@@ -25,20 +25,24 @@ Aspiring Data Engineer from London
 
 <h4 align="left">🤖Programming Languages, Frameworks & Tools:</h4>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![GIT](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+![GIT](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 <!--![DBT](https://img.shields.io/badge/DBT-E34F26?style=for-the-badge&logo=data%20build%20tool&logoColor=white)-->
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
-![LUA](https://img.shields.io/badge/Lua-00A2FF?style=for-the-badge&logo=lua&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00758F?style=flat&logo=sqlite&logoColor=white)
+[![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)](#)
 
 
 
-<h4 align="left">❄️Data Warehousing & Databases:</h4>
+<h4 align="left">❄️Data Science:</h4>
 
-![SNOWFLAKE](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![SQL SERVER](https://img.shields.io/badge/SQL%20SERVER-CC2927?style=for-the-badge&logo=sql%20server&logoColor=white)
-![POSTGRESQL](https://img.shields.io/badge/POSTGRE%20SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+[![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=fff)](#)
+[![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff)](#)
+[![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#)
+
+<h4 align="left">🌩️Data Warehousing & Databases:</h4>
+
+[![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)](#)
 
 
 
