@@ -1,6 +1,7 @@
 <!-- Banner for profile -->
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1190123988240830565/1478072004992045086/github_banner_1500x400.jpg?ex=69a71153&is=69a5bfd3&hm=1ca4734192da3a3e88c9e387a573a34fb5fc159e554ce9fcde75c4bda4c48dd3&" />
+  <img src="https://githu![Uploading s13initald.jpg…]()
+b.com/user-attachments/assets/a18bd0fa-de2b-49f0-864b-ea5ce3e36545" width="600" />
 </div>
   
 <!-- Intro Header -->
