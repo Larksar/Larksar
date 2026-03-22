@@ -30,7 +30,8 @@ Aspiring Data Engineer from London
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![DBT](https://img.shields.io/badge/DBT-E34F26?style=for-the-badge&logo=data%20build%20tool&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
-![LUAU](https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)
+![LUA](https://img.shields.io/badge/Lua-00A2FF?style=for-the-badge&logo=lua&logoColor=white)
+
 
 
 <h4 align="left">❄️Data Warehousing & Databases:</h4>
