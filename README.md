@@ -1,7 +1,6 @@
 <!-- Banner for profile -->
 <div align="center">
-  <img src="https://githu![Uploading s13initald.jpg…]()
-b.com/user-attachments/assets/a18bd0fa-de2b-49f0-864b-ea5ce3e36545" width="600" />
+  <img src="https://github.com/user-attachments/assets/a18bd0fa-de2b-49f0-864b-ea5ce3e36545" width="600" />
 </div>
   
 <!-- Intro Header -->
