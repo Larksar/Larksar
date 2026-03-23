@@ -34,15 +34,18 @@ Aspiring Data Engineer from London
 
 
 
-<h4 align="left">❄️Data Science:</h4>
+<h4 align="left">❄️Data Platforms & Warehouses:</h4>
 
 [![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=fff)](#)
 [![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff)](#)
 [![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#)
+[![SAP](https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=fff)](#)
 
-<h4 align="left">🌩️Data Warehousing & Databases:</h4>
+<h4 align="left">🗄️Databases:</h4>
 
 [![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)](#)
+
+
 
 
 
