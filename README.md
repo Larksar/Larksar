@@ -23,7 +23,7 @@ Aspiring Data Engineer from London
 <h2 align="center"> <img src="https://camo.githubusercontent.com/c046573d7598d2b619310a82caccd33ca2cc898c9ef6965789559de012bf3107/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="30px"> Skills
 </h2>
 
-<h4 align="left">🤖Programming Languages, Frameworks & Tools:</h4>
+<h4 align="left">🤖Programming Languages, Frameworks & Version Control:</h4>
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 ![GIT](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -44,6 +44,11 @@ Aspiring Data Engineer from London
 <h4 align="left">🗄️Databases:</h4>
 
 [![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)](#)
+
+<h4 align="left">🤝Collaboration Tools:</h4>
+
+[![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)
+[![Azure DevOps](https://custom-icon-badges.demolab.com/badge/Azure%20DevOps-0078D7?logo=azure-devops-white&logoColor=fff)](#)
 
 
 
