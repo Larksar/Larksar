@@ -14,7 +14,7 @@ Aspiring Data Engineer from London
 <h2 align="center">About Me</h2>
 
 <ul>
-  <li>⭐ currently learning DBT</li>
+  <li>⭐ currently learning Kubernetes</li>
   <li>📊 building analytics engineering projects</li>
   <li>🕗 working on mostly private repositries</li>
 </ul>
