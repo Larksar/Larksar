@@ -8,7 +8,7 @@
 
 <!-- About me section -->
 <h5 align="center">
-Aspiring AI/ML Engineer from London
+Aspiring AI/ML Engineer from London!
 </h5>
 
 <h2 align="center">About Me</h2>
