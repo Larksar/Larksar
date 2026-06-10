@@ -14,9 +14,9 @@ Aspiring AI/ML Engineer from London
 <h2 align="center">About Me</h2>
 
 <ul>
-  <li>⭐ currently learning AirByte, Kafka & Kubernetes</li>
-  <li>📊 building analytics engineering projects</li>
-  <li>🕗 working on mostly private repositries</li>
+  <li>⭐ currently learning & exploring ML</li>
+  <li>📊 building ML/analytics engineering projects</li>
+  <li>🕗 working on SmartExtenderAI repo</li>
 </ul>
 
 <!-- Skills section -->
