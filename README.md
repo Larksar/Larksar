@@ -14,8 +14,8 @@ Aspiring AI/ML Engineer from London
 <h2 align="center">About Me</h2>
 
 <ul>
-  <li>⭐ currently learning & exploring ML</li>
-  <li>📊 building ML/analytics engineering projects</li>
+  <li>⭐ currently learning & exploring AI and ML</li>
+  <li>📊 building AI/ML engineering projects</li>
   <li>🕗 working on SmartExtenderAI repo</li>
 </ul>
 
