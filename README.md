@@ -23,7 +23,7 @@ Aspiring AI/ML Engineer from London
 <h2 align="center"> <img src="https://camo.githubusercontent.com/c046573d7598d2b619310a82caccd33ca2cc898c9ef6965789559de012bf3107/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="30px"> Skills
 </h2>
 
-<h4 align="left">🤖Programming Languages, Frameworks & Version Control:</h4>
+<h4 align="left">📝Programming Languages, Frameworks & Version Control:</h4>
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 ![GIT](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -31,8 +31,14 @@ Aspiring AI/ML Engineer from London
 <!--![DBT](https://img.shields.io/badge/DBT-E34F26?style=for-the-badge&logo=data%20build%20tool&logoColor=white)-->
 ![SQL](https://img.shields.io/badge/SQL-00758F?style=flat&logo=sqlite&logoColor=white)
 [![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 
+<h4 align="left">🤖Data Science & Machine Learning:</h4>
 
+[![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
+[![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
+[![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)](#)
 
 <h4 align="left">❄️Data Platforms & Warehouses:</h4>
 
